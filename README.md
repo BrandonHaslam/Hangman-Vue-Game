@@ -1,4 +1,4 @@
-# hangman-vue-game
+# Hangman Vue Game
 
 ## Project setup
 ```
